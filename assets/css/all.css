@@ -612,7 +612,7 @@ header, footer {
   background-blend-mode: overlay, normal; }
 
 header {
-  background-position: 30px 50px, 50% 50%;
+  background-position: 30px 20px, 50% 50%;
   background-image: url(../img/logo.svg), url(../img/hero-bg.jpg);
   padding-bottom: 50px; }
   header .logo {
@@ -623,17 +623,14 @@ header {
     header .logo path {
       fill: rgba(0, 0, 0, 0.4); }
   header nav {
-    float:right;
-	right:20px;
-	top:20px;
-    padding: 20px 30px 0 0; }
+    float: right;
+    padding: 30px 30px 0 0; }
     header nav a {
       display: inline-block;
-      margin-left: 0.5em;
-	  margin-right:0.5em;
+      margin-left: 20px;
       color: rgba(0, 0, 0, 0.7); }
       header nav a:hover {
-        color: #c99065;		}
+        color: black; }
   header h1 {
     text-align: center;
     font-size: 72px;
@@ -643,7 +640,7 @@ header {
     letter-spacing: 0.05em;
     margin-bottom: 20px;
     clear: both;
-    padding-top: 75px; }
+    padding-top: 100px; }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
@@ -652,8 +649,7 @@ header {
     text-align: center;
     letter-spacing: 0.05em;
     color: white;
-    line-height: 1; 
-	padding-bottom:50px; }
+    line-height: 1; }
 
 @media (max-width: 640px) {
   header {
@@ -664,66 +660,6 @@ header {
       padding-top: 90px; }
     header h1 {
       padding-top: 0px; } }
-	  
-	  header nav p {
-    text-align: center;
-    font-weight: 700;
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 20px;
-    clear: both;
-    padding-top: 100px; 
-    text-decoration:white;
-    }
-	  
-	  header nav p {
-		display: block;
-		padding: 0.9em 0.5em;
-		border: white solid 10px;
-}
-
-		header nav a {
-	color:#ffffff;
-}
-	  
-			.scroll-top-wrapper {
-    position: fixed;
-	opacity: 0;
-	visibility: hidden;
-	overflow: hidden;
-	text-align: center;
-	z-index: 99999999;
-    background-color: #f15f3f;
-	color: #f15f3f;
-	width: 48px;
-	height: 48px;
-	line-height: 48px;
-	right: 30px;
-	bottom: 30px;
-	padding-top: 2px;
-	border-top-left-radius: 200px;
-	border-top-right-radius: 200px;
-	border-bottom-right-radius: 200px;
-	border-bottom-left-radius: 200px;
-	-webkit-transition: all 0.5s ease-in-out;
-	-moz-transition: all 0.5s ease-in-out;
-	-ms-transition: all 0.5s ease-in-out;
-	-o-transition: all 0.5s ease-in-out;
-	transition: all 0.5s ease-in-out;
-}
-.scroll-top-wrapper:hover {
-	background-color: #f15f3f;
-}
-.scroll-top-wrapper.show {
-    visibility:visible;
-    cursor:pointer;
-	opacity: 1.0;
-}
-.scroll-top-wrapper i.fa {
-	line-height: inherit;
-}
-	  
 footer {
   background-image: url(../img/logo.svg), url(../img/hero-bg.jpg); }
   footer .lockup {
