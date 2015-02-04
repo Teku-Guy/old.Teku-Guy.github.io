@@ -1,43 +1,45 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yourdomain.com/form-success/index.html</loc>
+    <loc>http://teku-guy.github.io/form-success/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/index.html</loc>
+    <loc>http://teku-guy.github.io/index.html</loc>
     <lastmod>2015-02-03T18:21:38-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-1/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-1/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-2/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-2/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-3/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-3/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-4/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-4/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-5/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-5/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-6/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-6/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-7/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-7/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
   <url>
-    <loc>http://yourdomain.com/work/proj-8/index.html</loc>
+    <loc>http://teku-guy.github.io/work/proj-8/index.html</loc>
     <lastmod>2015-02-03T11:56:39-08:00</lastmod>
   </url>
 </urlset>
