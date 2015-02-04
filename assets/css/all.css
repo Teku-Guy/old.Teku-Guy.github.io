@@ -612,7 +612,7 @@ header, footer {
   background-blend-mode: overlay, normal; }
 
 header {
-  background-position: 30px 20px, 50% 50%;
+  background-position: 30px 50px, 50% 50%;
   background-image: url(../img/logo.svg), url(../img/hero-bg.jpg);
   padding-bottom: 50px; }
   header .logo {
@@ -623,14 +623,17 @@ header {
     header .logo path {
       fill: rgba(0, 0, 0, 0.4); }
   header nav {
-    float: right;
-    padding: 30px 30px 0 0; }
+    float:right;
+	right:20px;
+	top:20px;
+    padding: 20px 30px 0 0; }
     header nav a {
       display: inline-block;
-      margin-left: 20px;
+      margin-left: 0.5em;
+	  margin-right:0.5em;
       color: rgba(0, 0, 0, 0.7); }
       header nav a:hover {
-        color: black; }
+        color: #c99065;		}
   header h1 {
     text-align: center;
     font-size: 72px;
@@ -640,7 +643,7 @@ header {
     letter-spacing: 0.05em;
     margin-bottom: 20px;
     clear: both;
-    padding-top: 100px; }
+    padding-top: 75px; }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
@@ -649,7 +652,8 @@ header {
     text-align: center;
     letter-spacing: 0.05em;
     color: white;
-    line-height: 1; }
+    line-height: 1; 
+	padding-bottom:50px; }
 
 @media (max-width: 640px) {
   header {
